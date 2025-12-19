@@ -13,7 +13,7 @@ Proje, modern portföy teorisi prensiplerini kullanarak varlıklar arasındaki *
     * Portföy Volatilitesi (Standart Sapma)
 * **Görselleştirme:**
     * `Matplotlib` ile Kümülatif Getiri karşılaştırması.
-    * * `Seaborn` ile portföy kovaryanslarının ısı grafiğikleri.
+    * `Seaborn` ile portföy kovaryanslarının ısı grafiğikleri.
 
 ## 📊 Portföyler
 
