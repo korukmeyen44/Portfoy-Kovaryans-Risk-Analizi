@@ -13,6 +13,7 @@ Proje, modern portföy teorisi prensiplerini kullanarak varlıklar arasındaki *
     * Portföy Volatilitesi (Standart Sapma)
 * **Görselleştirme:**
     * `Matplotlib` ile Kümülatif Getiri karşılaştırması.
+    * * `Seaborn` ile portföy kovaryanslarının ısı grafiğikleri.
 
 ## 📊 Portföyler
 
@@ -50,6 +51,7 @@ Projeyi yerel ortamınızda çalıştırmak için:
 ## 📈 Çıktılar
 
 Belirtilen dönemde trader ve kurnaz kişisinin kümülatif hisse değerleri:<img width="1466" height="645" alt="image" src="https://github.com/user-attachments/assets/73cc7589-e63d-4692-b757-f5fc02a1ef3d" />
+Porföylerin korelasyon matrislerinin ısı grafikleri:<img width="1556" height="590" alt="image" src="https://github.com/user-attachments/assets/4592136b-3209-4d84-b849-4adb2f8285e8" />
 
 
 ## 📝 Lisans
