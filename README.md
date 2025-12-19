@@ -13,7 +13,6 @@ Proje, modern portföy teorisi prensiplerini kullanarak varlıklar arasındaki *
     * Portföy Volatilitesi (Standart Sapma)
 * **Görselleştirme:**
     * `Matplotlib` ile Kümülatif Getiri karşılaştırması.
-    * `Seaborn` ile Korelasyon Isı Haritaları (Heatmaps).
 
 ## 📊 Portföyler
 
@@ -34,8 +33,8 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/portfoy-risk-analizi.git](https://github.com/KULLANICI_ADIN/portfoy-risk-analizi.git)
-    cd portfoy-risk-analizi
+    git clone [https://github.com/korukmeyen44/Portfoy-Kovaryans-Risk-Analizi.git](https://github.com/korukmeyen44/Portfoy-Kovaryans-Risk-Analizi.git)
+    cd Portfoy-Kovaryans-Risk-Analizi
     ```
 
 2.  Gereksinimleri yükleyin:
@@ -50,7 +49,7 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 ## 📈 Çıktılar
 
-(images/output_plot.png)<img width="1466" height="645" alt="image" src="https://github.com/user-attachments/assets/73cc7589-e63d-4692-b757-f5fc02a1ef3d" />
+Belirtilen dönemde trader ve kurnaz kişisinin kümülatif hisse değerleri:<img width="1466" height="645" alt="image" src="https://github.com/user-attachments/assets/73cc7589-e63d-4692-b757-f5fc02a1ef3d" />
 
 
 ## 📝 Lisans
