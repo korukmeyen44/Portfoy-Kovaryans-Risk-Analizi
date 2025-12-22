@@ -50,8 +50,48 @@ Projeyi yerel ortamınızda çalıştırmak için:
 
 ## 📈 Çıktılar
 
+    ```
+    --- Kurnazın Portföyü ---
+      Portföy Varyansı (sigma kare): 0.2415
+      Standart Sapma: 0.4915
+      
+      Kovaryans Matrisi (Yıllık):
+      Ticker    EREGL.IS  GARAN.IS  THYAO.IS
+      Ticker                                
+      EREGL.IS  0.363108  0.216462  0.149580
+      GARAN.IS  0.216462  0.345996  0.187808
+      THYAO.IS  0.149580  0.187808  0.282703
+      
+      Korelasyon Matrisi (İlişki Tablosu):
+      Ticker    EREGL.IS  GARAN.IS  THYAO.IS
+      Ticker                                
+      EREGL.IS  1.000000  0.610701  0.466865
+      GARAN.IS  0.610701  1.000000  0.600501
+      THYAO.IS  0.466865  0.600501  1.000000
+      
+      ==============================
+      
+      --- Traderin Portföyü ---
+      Portföy Varyansı (sigma kare): 0.0557
+      Standart Sapma: 0.2359
+      
+      Kovaryans Matrisi (Yıllık):
+      Ticker    CCOLA.IS     TRY=X  XU100.IS
+      Ticker                                
+      CCOLA.IS  0.229856 -0.016350  0.078354
+      TRY=X    -0.016350  0.058531 -0.052909
+      XU100.IS  0.078354 -0.052909  0.158064
+      
+      Korelasyon Matrisi (İlişki Tablosu):
+      Ticker    CCOLA.IS     TRY=X  XU100.IS
+      Ticker                                
+      CCOLA.IS  1.000000 -0.140963  0.411071
+      TRY=X    -0.140963  1.000000 -0.550067
+      XU100.IS  0.411071 -0.550067  1.000000
+    ```
 Belirtilen dönemde trader ve kurnaz kişisinin kümülatif hisse değerleri:<img width="1466" height="645" alt="image" src="https://github.com/user-attachments/assets/73cc7589-e63d-4692-b757-f5fc02a1ef3d" />
-Porföylerin korelasyon matrislerinin ısı grafikleri:<img width="1556" height="590" alt="image" src="https://github.com/user-attachments/assets/4592136b-3209-4d84-b849-4adb2f8285e8" />
+Porföylerin korelasyon matrislerinin ısı grafikleri:<img width="1566" height="590" alt="image" src="https://github.com/user-attachments/assets/05c02c6f-b905-4e41-a1ec-d984748babb9" />
+ />
 
 
 ## 📝 Lisans
